@@ -1,0 +1,18 @@
+{
+  "name": "datoms-encoding",
+  "version": "1.1.0",
+  "description": "datom's way of encoding and decoding datoms links. ",
+  "main": "index.js",
+  "dependencies": {
+    "safe-buffer": "^5.0.1"
+  },
+  "devDependencies": {
+    "standard": "^9.0.0",
+    "tape": "^4.5.1"
+  },
+  "scripts": {
+    "test": "tape test.js && standard"
+  },
+  "author": "jerry.zhang <jerry.zhang.bill@gmail.com>",
+  "license": "MIT"
+}
